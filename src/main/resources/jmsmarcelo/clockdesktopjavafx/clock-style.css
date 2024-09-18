@@ -1,0 +1,12 @@
+.root {
+    -fx-justify-content: center;
+}
+#hourNumbers {
+    -fx-opacity: 0.5;
+}
+#secondPointer * {
+    -fx-fill: #961c1f;
+}
+#digitalS, #digitalSS {
+    -fx-opacity: 0.5;
+}
