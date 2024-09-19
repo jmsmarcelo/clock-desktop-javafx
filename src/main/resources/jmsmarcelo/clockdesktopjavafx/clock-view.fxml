@@ -5,7 +5,7 @@
 <?import javafx.scene.shape.*?>
 
 <?import javafx.scene.control.Button?>
-<GridPane fx:id="root" alignment="CENTER" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jmsmarcelo.clockdesktopjavafx.ClockController">
+<GridPane fx:id="root" alignment="CENTER" hgap="10" vgap="10" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="jmsmarcelo.clockdesktopjavafx.ClockController">
     <Group>
         <Group fx:id="analogView" visible="false">
             <SVGPath content="m300,20c37.81,0,74.48,7.4,108.98,22,33.34,14.1,63.29,34.29,89.01,60.01,25.72,25.72,45.91,55.67,60.02,89.01,14.59,34.51,21.99,71.17,21.99,108.98s-7.4,74.48-22,108.98c-14.1,33.34-34.29,63.29-60.02,89.01-25.72,25.72-55.67,45.91-89.01,60.02-34.51,14.59-71.17,21.99-108.98,21.99s-74.48-7.4-108.98-22c-33.34-14.1-63.29-34.29-89.01-60.02s-45.91-55.67-60.01-89.01c-14.6-34.51-22-71.17-22-108.98s7.4-74.48,22-108.98c14.1-33.34,34.29-63.29,60.01-89.01s55.67-45.91,89.01-60.01c34.51-14.6,71.17-22,108.98-22m0-20C134.32,0,0,134.32,0,300s134.32,300,300,300,300-134.32,300-300S465.68,0,300,0h0Z" />
